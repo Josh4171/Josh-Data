@@ -1,0 +1,51 @@
+employee_name,employee_id,location,gender,type_of_onboard,join_date,career_level,education_level,notice_period,Channel,Score attained in probation 
+Rohan Sharma,EMP1001,Bangalore,Male,Physical,15-10-2024,Mid-level,Bachelor’s,30,Insource,10
+Priya Menon,EMP1002,Hyderabad,Female,Virtual,1-11-2024,Entry-level,Master’s,60,Refferal,8
+Arjun Patel,EMP1003,Mumbai,Male,Physical,20-9-2024,Senior-level,PhD,90,Outsource,7
+Sneha Reddy,EMP1004,Chennai,Female,Virtual,10-1-2025,Mid-level,Bachelor’s,0,Job board,5
+Vikram Singh,EMP1005,Delhi,Male,Physical,5-12-2024,Entry-level,Diploma,30,Insource,8
+Ananya Nair,EMP1006,Pune,Female,Virtual,30-8-2024,Mid-level,Master’s,60,Refferal,8
+Karthik Iyer,EMP1007,Bangalore,Male,Physical,1-2-2025,Senior-level,Bachelor’s,90,Outsource,7
+Divya Joshi,EMP1008,Hyderabad,Female,Virtual,15-7-2024,Entry-level,Bachelor’s,0,Job board,6
+Rahul Gupta,EMP1009,Mumbai,Male,Physical,20-11-2024,Mid-level,Master’s,30,Insource,10
+Meera Pillai,EMP1010,Chennai,Female,Virtual,1-3-2025,Entry-level,Diploma,60,Refferal,10
+Aarav Kumar,EMP1011,Gurugram,Male,Physical,1-10-2024,Mid-level,Bachelor’s,90,Outsource,10
+Lakshmi Rao,EMP1012,Kolkata,Female,Virtual,15-12-2024,Entry-level,Master’s,0,Job board,8
+Siddharth Menon,EMP1013,Bangalore,Male,Physical,5-1-2025,Senior-level,PhD,30,Insource,7
+Nisha Varghese,EMP1014,Hyderabad,Female,Virtual,10-9-2024,Mid-level,Bachelor’s,60,Refferal,5
+Aditya Desai,EMP1015,Delhi,Male,Physical,30-11-2024,Entry-level,Diploma,90,Outsource,8
+Shreya Pillai,EMP1016,Pune,Female,Virtual,20-2-2025,Mid-level,Master’s,0,Job board,8
+Ravi Nair,EMP1017,Chennai,Male,Physical,5-8-2024,Senior-level,Bachelor’s,30,Insource,7
+Pooja Sharma,EMP1018,Mumbai,Female,Virtual,25-10-2024,Entry-level,Bachelor’s,60,Refferal,6
+Sanjay Reddy,EMP1019,Bangalore,Male,Physical,15-3-2025,Mid-level,Master’s,90,Outsource,10
+Kavya Iyer,EMP1020,Hyderabad,Female,Virtual,20-7-2024,Entry-level,Diploma,0,Job board,10
+Manish Patel,EMP1021,Delhi,Male,Physical,10-12-2024,Senior-level,PhD,30,Insource,10
+Anjali Gupta,EMP1022,Gurugram,Female,Virtual,25-1-2025,Mid-level,Bachelor’s,60,Refferal,8
+Vivek Singh,EMP1023,Kolkata,Male,Physical,15-9-2024,Entry-level,Bachelor’s,90,Outsource,7
+Neha Menon,EMP1024,Pune,Female,Virtual,5-11-2024,Mid-level,Master’s,0,Job board,5
+Pranav Kumar,EMP1025,Chennai,Male,Physical,10-2-2025,Senior-level,Bachelor’s,30,Insource,8
+Riya Nair,EMP1026,Bangalore,Female,Virtual,20-8-2024,Entry-level,Diploma,60,Refferal,8
+Amit Desai,EMP1027,Hyderabad,Male,Physical,30-10-2024,Mid-level,Bachelor’s,90,Outsource,7
+Sowmya Reddy,EMP1028,Mumbai,Female,Virtual,5-3-2025,Entry-level,Master’s,0,Job board,6
+Nikhil Sharma,EMP1029,Delhi,Male,Physical,25-7-2024,Senior-level,PhD,30,Insource,10
+Tanya Joshi,EMP1030,Gurugram,Female,Virtual,20-12-2024,Mid-level,Bachelor’s,60,Refferal,10
+Kiran Patel,EMP1031,Kolkata,Male,Physical,15-1-2025,Entry-level,Diploma,90,Outsource,10
+Deepa Varghese,EMP1032,Pune,Female,Virtual,25-9-2024,Mid-level,Master’s,0,Job board,8
+Suresh Iyer,EMP1033,Bangalore,Male,Physical,10-11-2024,Senior-level,Bachelor’s,30,Insource,7
+Aishwarya Rao,EMP1034,Hyderabad,Female,Virtual,25-2-2025,Entry-level,Bachelor’s,60,Refferal,5
+Rakesh Singh,EMP1035,Chennai,Male,Physical,15-8-2024,Mid-level,Master’s,90,Outsource,8
+Jyoti Pillai,EMP1036,Mumbai,Female,Virtual,5-10-2024,Entry-level,Diploma,0,Job board,8
+Vinay Kumar,EMP1037,Delhi,Male,Physical,20-3-2025,Senior-level,PhD,30,Insource,7
+Swati Menon,EMP1038,Gurugram,Female,Virtual,30-7-2024,Mid-level,Bachelor’s,60,Refferal,6
+Harish Reddy,EMP1039,Kolkata,Male,Physical,1-12-2024,Entry-level,Bachelor’s,90,Outsource,10
+Preeti Nair,EMP1040,Pune,Female,Virtual,30-1-2025,Mid-level,Master’s,0,Job board,10
+Ajay Sharma,EMP1041,Bangalore,Male,Physical,5-9-2024,Senior-level,Bachelor’s,30,Insource,10
+Rekha Desai,EMP1042,Hyderabad,Female,Virtual,15-11-2024,Entry-level,Diploma,60,Refferal,8
+Mohan Patel,EMP1043,Chennai,Male,Physical,5-2-2025,Mid-level,Master’s,90,Outsource,7
+Smita Iyer,EMP1044,Mumbai,Female,Virtual,25-8-2024,Entry-level,Bachelor’s,0,Job board,5
+Arvind Gupta,EMP1045,Delhi,Male,Physical,20-10-2024,Senior-level,PhD,30,Insource,8
+Nandini Rao,EMP1046,Gurugram,Female,Virtual,10-3-2025,Mid-level,Bachelor’s,60,Refferal,8
+Sachin Kumar,EMP1047,Kolkata,Male,Physical,10-7-2024, Giant-level,Master’s,90,Outsource,7
+Radha Varghese,EMP1048,Pune,Female,Virtual,25-12-2024,Entry-level,Diploma,0,Job board,6
+Gopal Menon,EMP1049,Bangalore,Male,Physical,20-1-2025,Senior-level,Bachelor’s,30,Insource,10
+Shalini Reddy,EMP1050,Hyderabad,Female,Virtual,30-9-2024,Mid-level,Master’s,60,Refferal,10
