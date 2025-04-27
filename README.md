@@ -4,7 +4,7 @@
 This project demonstrates HR analytics skills using a 50-row India-based employee dataset. It includes Trino SQL queries and Tableau visualizations to analyze onboarding trends, notice periods, hiring patterns, and employee demographics, preparing for roles in People Analytics and HR MIS Reporting.
 
 #### Dataset
--- **File:** `fake_hr_dataset_50rows.csv`
+-- **File:** `hr_dataset_.csv`
 -- **Description:** A 50-row fake HR dataset simulating Indian employee data, with fields:
   -- `employee_name`: Indian names (e.g., Rohan Sharma)
   -- `employee_id`: Unique IDs (e.g., EMP1001)
@@ -18,7 +18,7 @@ This project demonstrates HR analytics skills using a 50-row India-based employe
 -- **Purpose:** Designed for HR analytics tasks like workforce planning and diversity analysis.
 
 #### SQL Queries
--- **File:** `hr_analytics_queries.sql`
+-- **File:** `HRDATA.sql`
 -- **Description:** A collection of Trino SQL queries analyzing the dataset, including:
   -- **Location Analysis:** Count employees by city using `|> AGGREGATE`.
   -- **Onboarding Trends:** Calculate physical vs virtual onboarding percentages.
